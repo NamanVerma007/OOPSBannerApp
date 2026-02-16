@@ -1,31 +1,24 @@
 /**
-<<<<<<<
  * OOPSBannerApp
  * Prints OOPS to console
  *
  * @author AdyantDas
- * @version 1.0
-=======
- * @author AdyantDas
  * @version 2
->>>>>>>
  */
 
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
-<<<<<<< 
-        System.out.println("OOPS");
+
+        // UC1
+        System.out.println("OOPS\n");
+
+        // UC2 banner
+        System.out.println(" ***** "+""+"  ***** "+""+"  ******"+""+"   ***** ");
+        System.out.println("*     *"+""+"*      *"+""+" *      *"+""+" *      ");
+        System.out.println("*     *"+""+"*      *"+""+" ****** "+""+" *******");
+        System.out.println("*     *"+""+"*      *"+""+" *      "+""+"        *");
+        System.out.println(" ***** "+""+" *****  "+""+" *      "+""+"  ***** ");
+
     }
-
-=======
-
-        System.out.println(" *****"+""+"   *****"+""+"   ****** "+""+"  ***** ");
-        System.out.println("*     * "+""+"*     *"+""+" *     * "+""+"*     ");
-        System.out.println("*     * "+""+"*     *"+""+" ******  "+""+"****** ");
-        System.out.println("*     *"+""+" *     *"+""+" *       "+""+"      * ");
-        System.out.println(" ***** "+""+"  ***** "+""+" *      "+""+"  ***** ");
-
-    }
->>>>>>> 
 }
